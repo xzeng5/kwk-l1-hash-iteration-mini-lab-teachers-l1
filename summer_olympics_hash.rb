@@ -54,3 +54,4 @@ def iterate_through_keys
 
   puts upcased_cities
 end
+
